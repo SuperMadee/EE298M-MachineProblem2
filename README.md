@@ -9,7 +9,7 @@ Use SGD to learned the polynomial coefficients.
 ***
 ### What you need to know?
 
-- Installation: I followed the installation guide from https://github.com/geohot/tinygrad
+- *Installation*: I followed the installation guide from https://github.com/geohot/tinygrad
 
 ```
 git clone https://github.com/geohot/tinygrad.git
@@ -17,13 +17,13 @@ cd tinygrad
 python3 setup.py develop
 ```
 
-- Creating the virtual environment: to ideally separate different applications and avoid problems with different dependencies.
+- *Creating the virtual environment*: to ideally separate different applications and avoid problems with different dependencies.
 
 ```
 conda create -n tgenv python=3.8
 ```
 
-- Install requirements.txt
+- *Install requirements.txt*
 ```
 pip install -r requirements.txt
 ```
