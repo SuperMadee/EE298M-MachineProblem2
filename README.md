@@ -32,5 +32,6 @@ pip install -r requirements.txt
 > - data_train.csv
 > - data_test.csv
 > - solver.py
-> The solver notebook was also included in this repository.
+>
+>  The solver notebook was also included in this repository.
 
