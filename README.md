@@ -48,7 +48,12 @@ pip install -r requirements.txt
 
 ***
 ### Sample Output:
-You may check the demo video here: https://bit.ly/Demo-MP2
+To run my program, you need to type this in the console:
+
+```
+python3 solver.py
+```
+The sample output can be seen on the demo video: https://bit.ly/Demo-MP2
 
 ***
 ### References:
@@ -57,4 +62,4 @@ You may check the demo video here: https://bit.ly/Demo-MP2
 
 ***
 ### Acknowledgment:
-I would like to thank Ma'am Izza and Sir Mark for their endless and support in guiding me to complete this Machine Problem.
+I would like to thank Ma'am Izza and Sir Mark for their endless patience and support in guiding me to complete this Machine Problem.
